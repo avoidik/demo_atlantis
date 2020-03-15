@@ -1,0 +1,4 @@
+version: 3
+projects:
+- dir: .
+  terraform_version: 0.12.23
